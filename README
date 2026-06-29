@@ -1,25 +1,37 @@
-Hi, I'm Aditi 👋✨
-🚀 About Me
-I am a driven Backend Developer 👩‍💻 specializing in building robust, scalable, and high-performance server-side applications 🏗️. Currently, I am deep-diving into the Java ecosystem ☕, mastering microservices architectures 🕸️, and implementing bulletproof security protocols 🔒. I thrive on solving complex architectural challenges 🧩 and turning clean code into powerful APIs ⚡.
+# <h1><font size="6">Hi, I'm Aditi</font> 👋</h1>
 
-🛠️ My Tech Stack
-Backend & Frameworks ⚙️
-Languages: Java (Core & Advanced) ☕
+### **Backend Engineer | Java Ecosystem Specialist**
 
-Frameworks: Spring Boot 🍃, Spring MVC, Spring Data JPA 🔌
+---
 
-Security: Spring Security 🛡️, OAuth2 🔑, JWT 🎟️
+## 🚀 Professional Summary
 
-Architecture: Microservices 🧩, RESTful APIs 🌐, Service Discovery 📡, API Gateways 🚪
+I am a results-driven **Backend Developer** specializing in designing and deploying robust, scalable, and high-performance server-side architectures. With a core focus on the Java ecosystem, I build resilient microservices and implement enterprise-grade security protocols. I thrive on translating complex business logic into clean, optimized, and maintainable APIs.
 
-Databases & Persistence 🗄️
-Relational Databases: MySQL 🐬, PostgreSQL 🐘
+---
 
-ORM / Mapping: Hibernate 🗺️
+## 🛠️ Technical Expertise
 
-Tools & DevOps 🚀
-Version Control: Git 🌿 & GitHub 🐙
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages & Core** | Java (Core & Advanced) |
+| **Frameworks** | Spring Boot, Spring MVC, Spring Data JPA |
+| **Security & Auth** | Spring Security, OAuth2, JWT |
+| **Architecture** | Microservices, RESTful APIs, Service Discovery, API Gateways |
+| **Data & Persistence** | MySQL, PostgreSQL, Hibernate ORM |
+| **Tools & DevOps** | Git & GitHub, Maven, Gradle, Eclipse, IntelliJ IDEA |
 
-Build Tools: Maven 📦, Gradle 🐘
+---
 
-IDE: Eclipse 🌑, IntelliJ IDEA 💻
+## ⚡ Core Competencies
+
+* **Scalable Architecture:** Designing decoupled, production-ready microservices built to sustain high traffic and growth.
+* **Enterprise Security:** Implementing robust authentication and authorization layers to secure critical endpoints.
+* **Database Optimization:** Writing high-efficiency SQL queries and managing complex data persistence layers with precision.
+
+---
+
+### 🤝 Let's Connect
+If you are looking for a dedicated backend engineer to build reliable systems, let's collaborate. 
+
+[💼 LinkedIn](https://www.linkedin.com/in/aditidhoni/) | [📧 Email](mailto:aditidhoni24@gmail.com)
