@@ -4,11 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Aditi%20Dhoni&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+# Aditi Dhoni
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;Building+Scalable+%26+Reliable+APIs;Aspiring+Software+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot" alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +24,7 @@ I'm currently expanding my skills into **Microservices**, **Spring Security**, *
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,mongodb,docker,git,github,linux,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,mongodb,docker,git,github,idea&theme=dark" />
 
 </div>
 
