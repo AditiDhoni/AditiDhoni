@@ -6,6 +6,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Aditi%20Dhoni&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;Building+Scalable+%26+Reliable+APIs;Aspiring+Software+Architect" alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -14,7 +18,7 @@
 
 I'm **Aditi Dhoni**, a Backend Developer currently focused on **Java Backend Development**. I enjoy building clean, scalable, and reliable backend systems, and I'm passionate about **System Design**, **Distributed Systems**, and **Software Architecture**.
 
-I'm currently expanding my skills into **Microservices**, **Spring Security**, **JWT Authentication**, **Redis**, **Kafka**, and **AWS**, with the long-term goal of becoming an excellent Backend Engineer and eventually a **Software Architect**.
+I'm currently expanding my skills into **Microservices**, **Spring Security**, **JWT Authentication**, **Redis**, and **AWS**, with the long-term goal of becoming an excellent Backend Engineer and eventually a **Software Architect**.
 
 <br/>
 
@@ -33,7 +37,7 @@ I'm currently expanding my skills into **Microservices**, **Spring Security**, *
 | **Languages & Frameworks** | Java, Spring Boot, Hibernate, JPA |
 | **Databases** | MySQL, PostgreSQL, MongoDB |
 | **Tools & DevOps** | Docker, Maven, Git, GitHub, Postman, Linux, IntelliJ IDEA |
-| **Currently Learning** | Microservices, Spring Security, JWT, Redis, Kafka, AWS |
+| **Currently Learning** | Microservices, Spring Security, JWT, Redis, AWS |
 
 <br/>
 
