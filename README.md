@@ -34,20 +34,28 @@ I'm currently expanding my skills into **Microservices**, **Spring Security**, *
 |---|---|
 | **Languages & Frameworks** | Java, Spring Boot, Hibernate, JPA |
 | **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Tools & DevOps** | Docker, Maven, Git, GitHub, Postman, Linux, IntelliJ IDEA |
+| **Tools & DevOps** | Docker, Maven, Git, GitHub, Postman, IntelliJ IDEA |
 | **Currently Learning** | Microservices, Spring Security, JWT, Redis, AWS |
 
 <br/>
 
 ## Achievements
 
-| Achievement | Description |
+<div align="center">
+
+```
+$ cat ./achievements.log
+```
+
+</div>
+
+| 🏆 Achievement | Details |
 |---|---|
-| 🏆 **1st Prize — HackSagon Hackathon** | Won first prize at the HackSagon Hackathon Open Symposium held at IIT Indore |
-| 🥈 **AI For Impact — 7th Rank** | Secured 7th rank in the AI For Impact competition |
-| 🎖️ **Kriyeta 5.0 — Top 14** | Reached the Top 14 in Kriyeta 5.0 |
-| 🤝 **Green Tech, SGSITS** | Participated in the Green Tech event organized at SGSITS |
-| 🤝 **Prayatna** | Participated in the Prayatna event |
+| 🥇 **1st Prize** | HackSagon Hackathon — Open Symposium, IIT Indore |
+| 🎯 **7th Rank** | AI For Impact — National Level Competition |
+| 🎯 **Top 14** | Kriyeta 5.0 |
+| 🎯 **Participant** | Green Tech — SGSITS |
+| 🎯 **Participant** | Prayatna |
 
 <br/>
 
