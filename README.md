@@ -24,7 +24,7 @@ I'm currently expanding my skills into **Microservices**, **Spring Security**, *
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,mongodb,docker,git,github,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,mongodb,docker,git,github,idea,aws&theme=dark" />
 
 </div>
 
@@ -40,14 +40,6 @@ I'm currently expanding my skills into **Microservices**, **Spring Security**, *
 <br/>
 
 ## Achievements
-
-<div align="center">
-
-```
-$ cat ./achievements.log
-```
-
-</div>
 
 | 🏆 Achievement | Details |
 |---|---|
